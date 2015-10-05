@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+.password{
+	float:left;
+	width:213px;
+	height: 29px;
+	margin: 3px 12px;
+	background-image:url(layout/campo-texto.png);
+}.password label {
+float: left;
+margin: 6px 10px;
+font: 15px Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: black;
+}.password .senha {
+margin: 4px -5px;
+float: left;
+width: 100px;
+border: 0 none;
+height: 19px;
+}.password .botao {
+float: right;
+margin: 7px -5px 0px 10px;
+text-transform: none;
+width: 37px;
+height: 17px;
+border: none;
+background: url(layout/botao-ok.png) no-repeat scroll 0 0 transparent;
+}
+
+.login{
+	float:left;
+	width:213px;
+	height: 29px;
+	margin: 3px 12px;
+	background-image:url(layout/campo-texto.png);
+}.login label {
+float: left;
+margin: 6px 12px;
+font: 15px Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: black;
+}.login input {
+margin: -26px 50px;
+float: left;
+border: 0 none;
+height: 19px;
+width: 143px;
+}
+
